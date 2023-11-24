@@ -1,11 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Beranda",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Tentang",
       "url": "/about"
     },
     {
@@ -13,14 +13,18 @@
       "url": "/elements"
     },
     {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Hubungi Kami",
+      "url": "/contact"
+    },
+    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Contact",
-          "url": "/contact"
-        },
         {
           "name": "Blog",
           "url": "/blog"
@@ -40,6 +44,29 @@
         {
           "name": "404 Page",
           "url": "/404"
+        }
+      ]
+    },
+    {
+      "name": "Layanan BIK",
+      "url": "/layanan/",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Inkubator Bisnis (Inbistro)",
+          "url": "/layanan/inbistro"
+        },
+        {
+          "name": "Legalitas Usaha",
+          "url": "/layanan/legalitas-usaha"
+        },
+        {
+          "name": "Sertifikasi",
+          "url": "/layanan/sertifikasi"
+        },
+        {
+          "name": "Pelatihan dan Pendampingan",
+          "url": "/layanan/pelatihan-dan-pendampingan"
         }
       ]
     }

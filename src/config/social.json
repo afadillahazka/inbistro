@@ -11,14 +11,14 @@
       "link": "https://twitter.com/"
     },
     {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
+      "name": "instagram",
+      "icon": "FaInstagram",
+      "link": "https://instagram.com/"
     },
     {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "youtube",
+      "icon": "FaYoutube",
+      "link": "https://youtube.com/"
     }
   ]
 }

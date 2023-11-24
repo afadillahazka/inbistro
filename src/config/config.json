@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "Biro Inovasi dan Kewirausahaan",
+    "base_url": "https://inbistro.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
-    "logo_text": "Astroplate"
+    "favicon": "/logo/bik.png",
+    "logo": "/logo/bik.png",
+    "logo_darkmode": "/logo/bik.png",
+    "logo_width": "100",
+    "logo_height": "100",
+    "logo_text": "BIK"
   },
 
   "settings": {
@@ -19,18 +19,19 @@
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
-    "blog_folder": "blog"
+    "blog_folder": "blog",
+    "layanan_folder": "layanan"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by Biro Inovasi dan Kewirausahaan Universitas Trilogi"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "label": "Hubungi Kami",
+    "link": "/contact"
   },
 
   "disqus": {
