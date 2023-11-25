@@ -6,49 +6,22 @@
     },
     {
       "name": "Tentang",
-      "url": "/about"
+      "url": "/tentang"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Mentor",
+      "url": "/mentors"
     },
     {
       "name": "Blog",
       "url": "/blog"
     },
     {
-      "name": "Hubungi Kami",
-      "url": "/contact"
+      "name": "Tenant dan Mitra",
+      "url": "/tenant-dan-mitra"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Search",
-          "url": "/search"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
-    },
-    {
-      "name": "Layanan BIK",
+      "name": "Layanan",
       "url": "/layanan/",
       "hasChildren": true,
       "children": [

@@ -4,9 +4,15 @@ import { markdownify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 import { getEntry } from "astro:content";
 
-const about = await getEntry("about", "-index");
+import StrukturCard from "@/components/StrukturCard.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+
+const about = await getEntry("tentang", "-index");
 const { Content } = await about.render();
 const { title, description, meta_title, image } = about.data;
+
+const struktur = await getSinglePage("struktur");
+
 ---
 
 <Base
@@ -35,6 +41,16 @@ const { title, description, meta_title, image } = about.data;
           <div class="content text-left text-base">
             <Content />
           </div>
+        </div>
+        <div class="row justify-center">
+          <h2 class="h3 mb-6 text-center">Struktural</h2>
+          {
+            struktur.map((struktur) => (
+              <div class="mb-14 md:col-6 lg:col-4">
+                <StrukturCard data={struktur} />
+              </div>
+            ))
+          }
         </div>
       </div>
     </div>
