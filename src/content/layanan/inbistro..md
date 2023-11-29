@@ -6,8 +6,6 @@ image: "/logo/inbistro.png"
 draft: false
 ---
 
-#### Inbistro memiliki kepanjangan Inkubator Bisnis Trilogi merupakan ... 
-
 # Visi
 Menjadikan Inbistro sebagai pusat inkubator bisnis yang unggul dan inovatif dalam mengembangkan wirausaha sosioteknologi yang berkelanjutan, mandiri, dan ramah lingkungan, yang berlandaskan pada nilai-nilai Pancasila, berkontribusi pada kemajuan ekonomi, sosial, dan kelestarian lingkungan Indonesia pada tahun 2030.
 
