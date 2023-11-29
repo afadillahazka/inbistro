@@ -4,6 +4,10 @@ import Base from "@/layouts/Base.astro";
 import PageHeader from "@/partials/PageHeader.astro";
 import { getEntry } from "astro:content";
 
+import social from "@/config/social-2.json";
+import Social from "@/components/Social.astro";
+
+
 const contact = await getEntry("contact", "-index");
 const { contact_form_action }: { contact_form_action: string } = config.params;
 const { title, description, meta_title, image } = contact.data;
@@ -18,6 +22,12 @@ const { title, description, meta_title, image } = contact.data;
   <PageHeader title={title} />
   <section class="section-sm">
     <div class="container">
+      <div class="row mx-auto my-4">
+        <h2 class="h2 mb-4 text-center">Hubungi Kami</h2>
+        <div class="flex justify-center">
+          <Social class="gap-4" source={social.main} className="social-icons" />
+        </div>
+      </div>
       <div class="row">
         <div class="mx-auto md:col-10 lg:col-6">
           <form action={contact_form_action} method="POST">

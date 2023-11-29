@@ -1,0 +1,17 @@
+---
+title: Wiwik Puntorini, S.Pd
+email: wiwikpuntorini.palaboo@gmail.com
+image: 
+description: this is meta description
+social:
+  - name: instagram
+    icon: FaInstagram
+    link: https://instagram.com/wiwikpuntorini
+    
+  - name: email
+    icon: FaEnvelope
+    link: https://mail.google.com/mail/?view=cm&fs=1&to=wiwikpuntorini.palaboo@gmail.com
+
+---
+
+CEO Cocovine
