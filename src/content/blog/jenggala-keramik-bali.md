@@ -4,7 +4,7 @@ meta_title: "PT Jenggala Keramik Bali #KISeries"
 description: "this is meta description"
 date: 2023-11-04T05:00:00Z
 image: "/event/kunjungan-industri/jenggala/1.webp"
-categories: ["Kunjungan Industri", "Tenant", "UMKM", "KemenkopUKM"]
+categories: ["Kunjungan Industri"]
 author: "Shela Suhaelah"
 tags: ["event"]
 draft: false

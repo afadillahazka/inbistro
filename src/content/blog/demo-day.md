@@ -4,7 +4,7 @@ meta_title: "Demo Day"
 description: "this is meta description"
 date: 2023-08-24T10:00:00Z
 image: "/images/avatar.png"
-categories: ["Coaching", "Tenant", "UMKM", "KemenkopUKM"]
+categories: ["Demo Day"]
 author: "Shela Suhaelah"
 tags: ["event"]
 draft: false

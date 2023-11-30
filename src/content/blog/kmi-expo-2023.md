@@ -4,7 +4,7 @@ meta_title: "KMI Expo XIV Tahun 2023"
 description: "this is meta description"
 date: 2023-11-21T05:00:00Z
 image: "/images/avatar.png"
-categories: ["Seleksi", "Tenant", "UMKM", "KemenkopUKM"]
+categories: ["Expo"]
 author: "Shela Suhaelah"
 tags: ["event"]
 draft: false

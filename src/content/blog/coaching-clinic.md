@@ -4,7 +4,7 @@ meta_title: "Coaching Clinic"
 description: "this is meta description"
 date: 2023-08-24T10:00:00Z
 image: "/event/coaching-and-mentoring/bmc-1.webp"
-categories: ["Coaching", "Tenant", "UMKM", "KemenkopUKM"]
+categories: ["Coaching Clinic"]
 author: "Shela Suhaelah"
 tags: ["event", "coaching clinic"]
 draft: false

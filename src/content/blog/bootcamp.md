@@ -4,7 +4,7 @@ meta_title: "Bootcamp"
 description: "this is meta description"
 date: 2023-06-07T05:00:00Z
 image: "/event/boothcamp/boothcamp.webp"
-categories: ["Seleksi", "Tenant", "UMKM", "KemenkopUKM"]
+categories: ["Kunjungan Industri"]
 author: "Shela Suhaelah"
 tags: ["event"]
 

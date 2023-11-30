@@ -4,7 +4,7 @@ meta_title: "Khrisna Oleh-oleh Bali #KISeries"
 description: "this is meta description"
 date: 2023-11-04T05:00:00Z
 image: "/images/avatar.png"
-categories: ["Kunjungan Industri", "Tenant", "UMKM", "KemenkopUKM"]
+categories: ["Kunjungan Industri"]
 author: "Shela Suhaelah"
 tags: ["event"]
 draft: false
