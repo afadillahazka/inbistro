@@ -3,7 +3,7 @@ title: "Bootcamp"
 meta_title: "Bootcamp"
 description: "this is meta description"
 date: 2023-06-07T05:00:00Z
-image: "/images/avatar.png"
+image: "event/boothcamp/boothcamp.webp"
 categories: ["Seleksi", "Tenant", "UMKM", "KemenkopUKM"]
 author: "Shela Suhaelah"
 tags: ["event"]

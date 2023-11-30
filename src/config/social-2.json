@@ -1,24 +1,29 @@
 {
-  "main": [
+  "tenant": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "name": "instagram",
-      "icon": "FaInstagram",
-      "link": "https://instagram.com/"
-    },
-    {
-      "name": "youtube",
-      "icon": "FaYoutube",
-      "link": "https://youtube.com/"
+      "namatenant": "AccounTax",
+      "social": [
+        {
+          "name": "facebook",
+          "icon": "FaFacebook",
+          "link": "https://www.facebook.com/"
+        },
+        {
+          "name": "twitter",
+          "icon": "FaTwitter",
+          "link": "https://twitter.com/"
+        },
+        {
+          "name": "instagram",
+          "icon": "FaInstagram",
+          "link": "https://instagram.com/"
+        },
+        {
+          "name": "youtube",
+          "icon": "FaYoutube",
+          "link": "https://youtube.com/"
+        }
+      ]
     }
   ]
 }

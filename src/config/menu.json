@@ -17,8 +17,12 @@
       "url": "/blog"
     },
     {
-      "name": "Tenant dan Mitra",
-      "url": "/tenant-dan-mitra"
+      "name": "Tenant",
+      "url": "/tenant"
+    },
+    {
+      "name": "Mitra",
+      "url": "/mitra"
     },
     {
       "name": "Layanan",

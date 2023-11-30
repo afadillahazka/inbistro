@@ -16,10 +16,12 @@ tenant:
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
     social:
-      enable: true
-      name: "Instagram"
-      icon: ""
-      link: ""  
+      - name: "Instagram"
+        icon: "FaInstagram"
+        link: "https://www.instagram.com/accountax"
+      - name: "Instagram"
+        icon: ""
+        link: ""  
     button:
       enable: false
       label: "Get Started Now"
@@ -33,9 +35,12 @@ tenant:
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
       - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     social:
-      name: ""
-      icon: ""
-      link: ""   
+      - name: "Instagram"
+        icon: "FaInstagram"
+        link: "https://www.instagram.com/accountax"
+      - name: "Instagram"
+        icon: ""
+        link: ""  
     button:
       enable: false
       label: "Get Started Now"
@@ -50,9 +55,12 @@ tenant:
       - "Use any front-end library or framework, or build custom components, for any project size."
       - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
     social:
-      name: ""
-      icon: ""
-      link: ""   
+      - name: "Instagram"
+        icon: "FaInstagram"
+        link: "https://www.instagram.com/accountax"
+      - name: "Instagram"
+        icon: "FaWorld"
+        link: ""  
     button:
       enable: false
       label: ""
