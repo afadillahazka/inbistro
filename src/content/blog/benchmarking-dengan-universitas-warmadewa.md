@@ -4,9 +4,9 @@ meta_title: "Benchmarking dengan Universitas Warmadewa #KISeries"
 description: "this is meta description"
 date: 2023-11-04T05:00:00Z
 image: "/event/kunjungan-industri/benchmarking/benchmark-1.webp"
-categories: 'Kunjungan Industri'
-author: 'Shela'
-tags: ['benchmarking', 'trilogi']
+categories: ["Kunjungan Industri"]
+author: "Shela"
+tags: ["trilogi"]
 draft: false
 ---
 
