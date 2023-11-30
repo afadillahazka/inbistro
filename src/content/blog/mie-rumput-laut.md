@@ -3,7 +3,7 @@ title: "UMKM Mie Rumput Laut #KISeries"
 meta_title: "UMKM Mie Rumput Laut #KISeries"
 description: "this is meta description"
 date: 2023-11-04T05:00:00Z
-image: "/images/avatar.png"
+image: ""/event/kunjungan-industri/rumput-laut/1.webp""
 categories: ["Kunjungan Industri", "Tenant", "UMKM", "KemenkopUKM"]
 author: "Shela Suhaelah"
 tags: ["event"]

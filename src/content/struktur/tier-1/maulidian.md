@@ -1,21 +1,12 @@
 ---
 title: Maulidian, S.Hut., M.M.
-email: johndoe@email.com
+email: maulidian@trilogi.ac.id
 image: "/mentor/maulidian.png"
 description: this is meta description
 social:
-  - name: github
-    icon: FaGithub
-    link: https://github.com
-
-  - name: twitter
-    icon: FaTwitter
-    link: https://twitter.com
-
-  - name: linkedin
-    icon: FaLinkedin
-    link: https://linkedin.com
+  - name: Instagram
+    icon: FaInstagram
+    link: https://www.instagram.com/bang_dodi/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
-a
+Kepala Biro Inovasi dan Kewirausahaan

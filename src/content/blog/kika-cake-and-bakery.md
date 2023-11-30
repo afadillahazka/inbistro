@@ -3,7 +3,7 @@ title: "Kika Cake and Bakery #KISeries"
 meta_title: "Kika Cake and Bakery #KISeries"
 description: "this is meta description"
 date: 2023-11-04T05:00:00Z
-image: "/images/avatar.png"
+image: "/event/kunjungan-industri/kika-cake/1.webp"
 categories: ["Kunjungan Industri", "Tenant", "UMKM", "KemenkopUKM"]
 author: "Shela Suhaelah"
 tags: ["event"]
