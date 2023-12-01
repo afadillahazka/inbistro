@@ -6,9 +6,6 @@ description: this is meta description
 social:
   - name: instagram
     icon: FaInstagram
-    link: https://instagram.com/adangadha
-  - name: instagram
-    icon: FaGlobe
-    link: https://instagram.com/adangadha
+    link: https://instagram.com/
+
 ---
-adasda

@@ -1,7 +1,7 @@
 ---
 title: Healtiny
 email: 
-image: /tenant/dnakopi.webp
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram
