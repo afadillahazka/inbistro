@@ -1,5 +1,5 @@
 ---
-title: MENTAISISS
+title: Mentasiss
 email: 
 image: /tenant/mentaisiss.webp
 description: this is meta description
