@@ -10,4 +10,4 @@ social:
 
 ---
 
-Dosen Manajemen Universitas Trilogi
+Dekan Fakultas Ekonomi Bisnis dan Humaniora dan Dosen Manajemen Universitas Trilogi

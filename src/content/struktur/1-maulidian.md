@@ -9,4 +9,4 @@ social:
     link: https://www.instagram.com/bang_dodi/
 ---
 
-Kepala Biro Inovasi dan Kewirausahaan
+Direktur INBISTRO, CEO CV. Mamifood Sukses Abadi, Owner Dhijabin Indonesia

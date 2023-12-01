@@ -1,16 +1,15 @@
 ---
 title: Maulidian, S.Hut., M.M.
-email: 
+email: maulidian@trilogi.ac.id
 image: "/mentors/maulidian.png"
 description: this is meta description
 social:
-  - name: instagram
-    icon: FaInstagram
-    link: https://instagram.com/
-
   - name: email
     icon: FaEnvelope
-    link: https://mail.google.com/mail/?view=cm&fs=1&to=
+    link: https://mail.google.com/mail/?view=cm&fs=1&to=maulidian@trilogi.ac.id
+  - name: instagram
+    icon: FaInstagram
+    link: https://instagram.com/bang_dodie
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Dosen Agribisnis Universitas Trilogi, CEO CV. Mamifood Sukses Abadi, Owner Dhijabin Indonesia
