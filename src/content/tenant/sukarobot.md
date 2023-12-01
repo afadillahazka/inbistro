@@ -7,6 +7,7 @@ social:
   - name: email
     icon: FaEnvelope
     link: https://mail.google.com/mail/?view=cm&fs=1&to=sukarobotacademy@gmail.com
+  - name: instagram
     icon: FaInstagram
     link: https://instagram.com/sukarobot.id
 ---
