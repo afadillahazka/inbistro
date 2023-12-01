@@ -1,7 +1,7 @@
 ---
 title: Yosua Yosafat Andree Saroinsong
 email: yosua.yosafat@gmail.com
-image: 
+image: /mentors/yosua-yosafat.png
 description: this is meta description
 social:
   - name: instagram
