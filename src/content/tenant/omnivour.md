@@ -1,5 +1,5 @@
 ---
-title: MENTAISISS
+title: Omnivour
 email: 
 image: 
 description: this is meta description
