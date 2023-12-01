@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/rizolles_yummy
 ---
-adasda
+Risol mayones, memiliki cita rasa yang berbeda serta isi lebih banyak.

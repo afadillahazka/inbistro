@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/prof.dito
 ---
-adasda
+Prof. Dito merupakan _platform_ tes Bahasa Indonesia/Asing yang menyediakan berbagai macam jenis soal yang bisa kamu kerjakan.

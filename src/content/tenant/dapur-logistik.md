@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/official.dapur.logistik
 ---
-adasda
+Kuliner tradisional Indonesia - resep tradisional dalam kemasan modern. Makanan sehat, mudah, enak.

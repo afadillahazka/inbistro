@@ -1,7 +1,7 @@
 ---
 title: Sri Opti, SE.Ak., MM.CA., CertIPSAS
 email: sriopti@trilogi.ac.id
-image: 
+image: /mentors/opti.png
 description: this is meta description
 social:
   - name: instagram

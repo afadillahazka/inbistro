@@ -1,7 +1,7 @@
 ---
 title: Ahmad Raafi, S.E.
 email: 
-image: 
+image: /mentors/raafi.png
 description: this is meta description
 social:
   - name: instagram

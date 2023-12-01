@@ -1,7 +1,7 @@
 ---
 title: Dr. Aty Herawati
 email: atyherawati@trilogi.ac.id
-image: 
+image: /mentors/aty.png
 description: this is meta description
 social:
   - name: email

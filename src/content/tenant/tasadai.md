@@ -6,6 +6,6 @@ description: this is meta description
 social:
   - name: instagram
     icon: FaInstagram
-    link: https://instagram.com/adangadha
+    link: https://instagram.com/
 ---
-adasda
+Totebag dengan 2 kegunaan. Dapat digunakan sebagai tote bag ataupun sebagai shoulder bag. Bentuk awal berupa shoulder bag, memiliki resleting di bagian bawah tas yang dapat dibuka sehingga menjadi bentuk tote bag.

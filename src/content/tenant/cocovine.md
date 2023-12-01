@@ -6,6 +6,5 @@ description: this is meta description
 social:
   - name: instagram
     icon: FaInstagram
-    link: https://instagram.com/adangadha
+    link: https://instagram.com/cocovine.id
 ---
-adasda

@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/buang__sampah
 ---
-adasda
+Platform pembuangan sampah secara _online_

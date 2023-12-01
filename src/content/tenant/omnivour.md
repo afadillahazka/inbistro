@@ -1,11 +1,11 @@
 ---
 title: MENTAISISS
 email: 
-image: /tenant/mentaisiss.webp
+image: 
 description: this is meta description
 social:
   - name: instagram
     icon: FaInstagram
     link: https://instagram.com/omnivour.id
 ---
-adasda
+Katering Box sehat

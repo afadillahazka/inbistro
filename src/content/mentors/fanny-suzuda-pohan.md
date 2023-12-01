@@ -1,7 +1,7 @@
 ---
 title: Fanny Suzuda Pohan
 email:
-image: 
+image: /mentors/fanny.png
 description: this is meta description
 social:
   - name: instagram

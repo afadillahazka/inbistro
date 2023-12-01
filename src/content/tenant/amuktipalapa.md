@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/amukti_palapa
 ---
-adasda
+_Board game_ adaptasi dari permainan tradisional "bas-basan sepur"

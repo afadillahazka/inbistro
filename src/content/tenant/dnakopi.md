@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/dna_kopie
 ---
-adasda
+Berbagai macam kopi sesuai kebutuhan anda dan berbagai tekstur sesuai keinginan

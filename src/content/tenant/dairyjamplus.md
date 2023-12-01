@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/dairyjamplus
 ---
-adasda
+Selai susu sehat. Tidak mengandung bahan pengawet, Terbuat dari susu segar, Menggunakan teknologi tinggi, dan Cocok untuk semua usia.

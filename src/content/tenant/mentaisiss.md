@@ -8,4 +8,4 @@ social:
     icon: FaInstagram
     link: https://instagram.com/mentaisiss
 ---
-adasda
+_Mentai rice_ dengan toping ayam _karage_ yang sudah di-_slice_ dan di atasnya di tambahkan dengan saus mentai, mentaisiss ini terbuat dari bahan berkualitas sehingga aman untuk di konsumsi setiap waktu.
