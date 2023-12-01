@@ -8,7 +8,7 @@ import { slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 
 export async function getStaticPaths() {
-  const tenant = await getSinglePage("tenant");
+  const tenant = await getSinglePage("mitra");
 
   const paths = tenant.map((tenant) => ({
     params: {

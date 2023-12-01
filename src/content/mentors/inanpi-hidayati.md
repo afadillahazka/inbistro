@@ -1,7 +1,7 @@
 ---
 title: Dr. Inanpi Hidayati S.
 email: inanpihs@trilogi.ac.id
-image: 
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram

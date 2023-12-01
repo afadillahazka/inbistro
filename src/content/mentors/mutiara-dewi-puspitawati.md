@@ -1,7 +1,7 @@
 ---
 title: Mutiara Dewi Puspitawati, SP., M.Si.
 email: mutiara.dewi@trilogi.ac.id
-image: 
+image: /mentors/mutiara-dewi.png
 description: this is meta description
 social:
   - name: instagram

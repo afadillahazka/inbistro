@@ -1,7 +1,7 @@
 ---
 title: Nina Sariana, MMSI.
 email: ninasariana99@trilogi.ac.id 
-image: 
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram

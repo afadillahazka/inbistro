@@ -1,7 +1,7 @@
 ---
 title: Dapur Logistik
 email: 
-image: /tenant/L.webp
+image: /tenant/dapur-logistik.jpg
 description: this is meta description
 social:
   - name: instagram

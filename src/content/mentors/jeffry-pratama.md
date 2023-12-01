@@ -1,7 +1,7 @@
 ---
 title: Jefry Pratama, S.Kom., MBA.
-email: anieslastiati@trilogi.ac.id
-image: 
+email: 
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram

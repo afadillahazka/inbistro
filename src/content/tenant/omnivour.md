@@ -1,7 +1,7 @@
 ---
 title: Omnivour
 email: 
-image: /images/avatar.png
+image: /tenant/omnivour.PNG
 description: this is meta description
 social:
   - name: instagram

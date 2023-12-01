@@ -1,7 +1,7 @@
 ---
 title: Kashogi Nurshandy, S.Ds.
 email: kashoginurshandy@trilogi.ac.id 
-image: 
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram

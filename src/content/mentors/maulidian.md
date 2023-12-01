@@ -1,6 +1,6 @@
 ---
 title: Maulidian, S.Hut., M.M.
-email: johndoe@email.com
+email: 
 image: "/mentors/maulidian.png"
 description: this is meta description
 social:

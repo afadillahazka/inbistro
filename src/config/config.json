@@ -5,10 +5,10 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/logo/bik.png",
-    "logo": "/logo/bik.png",
-    "logo_darkmode": "/logo/bik.png",
-    "logo_width": "100",
-    "logo_height": "100",
+    "logo": "/logo/bik-trilogi.png",
+    "logo_darkmode": "/logo/bik-trilogi.png",
+    "logo_width": "160",
+    "logo_height": "90",
     "logo_text": "BIK"
   },
 

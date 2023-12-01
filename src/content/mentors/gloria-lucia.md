@@ -1,7 +1,7 @@
 ---
 title: Gloria Lucia Eliarestu Arumsari
 email: eliarestu@gmail.com
-image: 
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram

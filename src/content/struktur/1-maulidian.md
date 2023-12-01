@@ -1,7 +1,7 @@
 ---
 title: Maulidian, S.Hut., M.M.
 email: maulidian@trilogi.ac.id
-image: "/mentor/maulidian.png"
+image: "/mentors/maulidian.png"
 description: this is meta description
 social:
   - name: Instagram
