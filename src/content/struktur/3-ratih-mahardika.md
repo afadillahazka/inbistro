@@ -17,4 +17,4 @@ social:
 
 ---
 
-Dosen Manajemen Universitas Trilogi
+Koordinator Pemasaran dan Komunikasi

@@ -17,4 +17,4 @@ social:
 
 ---
 
-Dosen Akuntansi Universitas Trilogi
+Koordinator Mentor

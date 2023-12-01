@@ -18,4 +18,4 @@ social:
 
 ---
 
-Dosen Akuntansi Universitas Trilogi
+Koordinator Program

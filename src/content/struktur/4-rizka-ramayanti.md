@@ -16,4 +16,4 @@ social:
 
 ---
 
-Dosen Akuntansi Universitas Trilogi
+Koordinator Hubungan Alumni, Industri dan Pemerintah

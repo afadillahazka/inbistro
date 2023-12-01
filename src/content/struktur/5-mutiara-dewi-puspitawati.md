@@ -14,4 +14,4 @@ social:
 
 ---
 
-Dosen Agroekoteknologi Universitas Trilogi
+Koordinator Pengembangan Teknologi
