@@ -17,4 +17,4 @@ social:
 
 ---
 
-Dosen Akuntansi Universitas Trilogi
+Wakil Rektor Bidang Pembelajaran dan Kemahasiswaan, Dosen Akuntansi Universitas Trilogi

@@ -1,7 +1,7 @@
 ---
 title: Pak Ombak
 email: 
-image: /tenant/prof-dito.webp
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: email
