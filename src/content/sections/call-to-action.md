@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with us?"
+title: "Ingin mengembangkan startup Anda? "
 image: "/images/service-3.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "INBISTRO adalah tempat yang tepat untuk Anda. Kami memiliki program inkubasi yang komprehensif dan didukung oleh mentor yang berpengalaman."
 button:
   enable: true
   label: "Hubungi Kami"
-  link: "https://github.com/zeon-studio/astroplate"
+  link: "/contact"
 ---

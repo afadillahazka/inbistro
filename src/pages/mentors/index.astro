@@ -4,9 +4,13 @@ import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import PageHeader from "@/partials/PageHeader.astro";
 import { getEntry } from "astro:content";
+import CallToAction from "@/partials/CallToAction.astro";
+
 
 const authorIndex = await getEntry<any, string>("mentors", "-index");
 const mentors = await getSinglePage("mentors");
+
+const call_to_action = await getEntry("sections", "call-to-action-mentor");
 ---
 
 <Base title={authorIndex.data.title}>
@@ -24,4 +28,6 @@ const mentors = await getSinglePage("mentors");
       </div>
     </div>
   </section>
+  <CallToAction call_to_action={call_to_action} />
+
 </Base>

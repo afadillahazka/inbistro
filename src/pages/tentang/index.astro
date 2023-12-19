@@ -11,7 +11,7 @@ const about = await getEntry("tentang", "-index");
 const { Content } = await about.render();
 const { title, description, meta_title, image } = about.data;
 
-const struktur = await getSinglePage("struktur");
+const tentang = await getSinglePage("tentang");
 
 ---
 
@@ -45,7 +45,7 @@ const struktur = await getSinglePage("struktur");
         <div class="row justify-center">
           <h2 class="h3 mb-6 text-center">Struktural</h2>
           {
-            struktur.map((struktur) => (
+            tentang.map((struktur) => (
               <div class="mb-14 md:col-6 lg:col-4">
                 <StrukturCard data={struktur} />
               </div>

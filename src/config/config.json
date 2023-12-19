@@ -20,7 +20,8 @@
     "pagination": 6,
     "summary_length": 200,
     "blog_folder": "blog",
-    "layanan_folder": "layanan"
+    "layanan_folder": "layanan",
+    "struktur_folder": "tentang"
   },
 
   "params": {

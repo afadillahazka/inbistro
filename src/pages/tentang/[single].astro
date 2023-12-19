@@ -8,7 +8,7 @@ import { slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 
 export async function getStaticPaths() {
-  const authors = await getSinglePage("authors");
+  const authors = await getSinglePage("tentang");
 
   const paths = authors.map((author) => ({
     params: {
@@ -19,11 +19,11 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { blog_folder }: { blog_folder: string } = config.settings;
+const { struktur_folder }: { struktur_folder: string } = config.settings;
 const { author } = Astro.props;
 const { title, social, meta_title, description, image } = author.data;
 const { Content } = await author.render();
-const posts = await getSinglePage(blog_folder);
+const posts = await getSinglePage(struktur_folder);
 const postFilterByAuthor = posts.filter(
   (post) => slugify(post.data.author) === slugify(title),
 );

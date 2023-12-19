@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "Biro Inovasi dan Kewirausahaan Universitas Trilogi"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  content: ""
   image: "/logo/bik.png"
   button:
     enable: false
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    link: ""
 
 # Features
 features:

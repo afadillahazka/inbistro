@@ -25,6 +25,21 @@
       "url": "/mitra"
     },
     {
+      "name": "Daftar",
+      "url":"#",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Mentor",
+          "url": "https://bit.ly/DataMentorINBISTRO"
+        },
+        {
+          "name": "Tenant",
+          "url": "https://bit.ly/DataTenantINBISTRO"
+        }
+      ]
+    },
+    {
       "name": "Layanan",
       "url": "/layanan/",
       "hasChildren": true,
