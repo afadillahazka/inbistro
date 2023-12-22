@@ -8,11 +8,13 @@ import StrukturCard from "@/components/StrukturCard.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 
 const about = await getEntry("tentang", "-index");
-const { Content } = await about.render();
+// const { Content } = await about.render();
 const { title, description, meta_title, image } = about.data;
 
-const tentang = await getSinglePage("tentang");
+const vmts = await getEntry("vmts", "vmts");
+const { Content } = await vmts.render();
 
+const tentang = await getSinglePage("tentang");
 ---
 
 <Base
@@ -38,8 +40,12 @@ const tentang = await getSinglePage("tentang");
             )
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
-          <div class="content text-left text-base">
-            <Content />
+          <div class="content text-left text-base text-black">
+            <section class="section-sm">
+              <div class="container">
+                  <Content />
+              </div>
+            </section>
           </div>
         </div>
         <div class="row justify-center">
