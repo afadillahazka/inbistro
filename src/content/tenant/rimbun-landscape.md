@@ -1,7 +1,7 @@
 ---
 title: Rimbun Landscape
 email: 
-image: /tenant/rizolles-yummy.jpg
+image: /images/avatar.png
 description: this is meta description
 social:
   - name: instagram

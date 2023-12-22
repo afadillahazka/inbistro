@@ -1,7 +1,7 @@
 ---
 title: Sukarobot Academy
 email: 
-image: /tenant/rizolles-yummy.jpg
+image: /tenant/sukarobot.jpg
 description: this is meta description
 social:
   - name: email

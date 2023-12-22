@@ -12,4 +12,4 @@ social:
     link: https://aibinetwork.com/
 ---
 
-Sebagian besar dari angota AIBI adalah inkubator bisnis yang didirikan oleh Perguruan Tinggi, baik Perguruan Tinggi Negeri maupun Perguruan Tinggi Swasta, namun terdapat pula Inkubator Bisnis yang berhasil dan besar dari sektor swasta, BUMN seperti Indigo, Pemda seperti Inwinov, dan Kementerian.
+Sebagian besar dari anggota AIBI adalah inkubator bisnis yang didirikan oleh Perguruan Tinggi, baik Perguruan Tinggi Negeri maupun Perguruan Tinggi Swasta, namun terdapat pula Inkubator Bisnis yang berhasil dan besar dari sektor swasta, BUMN seperti Indigo, Pemda seperti Inwinov, dan Kementerian.

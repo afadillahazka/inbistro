@@ -8,4 +8,3 @@ social:
     icon: FaInstagram
     link: https://instagram.com/jamukulo.id
 ---
-adasda
