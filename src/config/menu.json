@@ -9,6 +9,17 @@
       "url": "/tentang"
     },
     {
+      "name": "Event",
+      "url":"#",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Pitching Festival 2024",
+          "url": "https://pitchingfest.id/"
+        }
+      ]
+    },
+    {
       "name": "Mentor",
       "url": "/mentors"
     },
