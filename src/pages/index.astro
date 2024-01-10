@@ -8,6 +8,7 @@ import { Image } from "astro:assets";
 import { getEntries, getEntry } from "astro:content";
 import { FaCheck } from "react-icons/fa/index.js";
 import VMTS from "@/partials/VMTS.astro";
+import Timeline from "@/partials/Timeline.astro";
 
 interface Homepage {
   banner: {
@@ -55,6 +56,7 @@ const { banner, features }: Homepage = homepage.data;
             )
           }
         </div>
+        <Timeline>
       </div>
     </div>
   </section>

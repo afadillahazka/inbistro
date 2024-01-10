@@ -24,7 +24,8 @@ if (theme.fonts.font_family.secondary) {
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
+  content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}",
+            "./node_modules/flowbite/**/*.js"],
   safelist: [{ pattern: /^swiper-/ }],
   darkMode: "class",
   theme: {
@@ -96,5 +97,6 @@ module.exports = {
         5: "3rem",
       },
     }),
+    require('flowbite/plugin')
   ],
 };
