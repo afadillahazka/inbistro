@@ -1,7 +1,7 @@
 ---
 title: "Webinar Series 2024"
 meta_title: "Webinar Series 2024"
-description: "this is meta description"
+description: "Webinar Series 2024 adalah inisiatif kolaboratif antara Inbistro dan URUN-RI, didukung oleh community partner Tangan Di Atas (TDA), Wise.Co, Amvesindo, GoreBiz, SertifikasiKu, dan TopIndoku."
 date: 2024-03-15T14:39:00Z
 image: "/event/eflyer_webinarseries_2024.png"
 categories: ["Webinar Series"]
