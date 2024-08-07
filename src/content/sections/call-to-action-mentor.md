@@ -6,5 +6,5 @@ description: ""
 button:
   enable: true
   label: "Daftar Menjadi Mentor"
-  link: "https://bit.ly/DataMentorINBISTRO2024"
+  link: "https://bit.ly/DataMentorINBISTRO"
 ---
