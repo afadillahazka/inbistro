@@ -9,7 +9,7 @@ social:
     link: https://mail.google.com/mail/?view=cm&fs=1&to=maulidian@trilogi.ac.id
   - name: instagram
     icon: FaInstagram
-    link: https://instagram.com/bang_dodie
+    link: https://instagram.com/bang_dodi
 ---
 
 Dosen Agribisnis Universitas Trilogi, CEO CV. Mamifood Sukses Abadi, Owner Dhijabin Indonesia
