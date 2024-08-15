@@ -12,4 +12,4 @@ social:
     link: https://instagram.com/bang_dodi
 ---
 
-Dosen Agribisnis Universitas Trilogi, CEO CV. Mamifood Sukses Abadi, Owner Dhijabin Indonesia
+Dosen Agribisnis Universitas Trilogi, Kepala Biro Inovasi dan Kewirausahaan Universitas Trilogi, CEO CV. Mamifood Sukses Abadi, Owner Dhijabin Indonesia
